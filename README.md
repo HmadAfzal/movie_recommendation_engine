@@ -1,12 +1,8 @@
-
 # 🎬 A Content-Based Movie Recommendation System
 
 **Built with the TMDB 5000 Movie Dataset**
 
-👨‍💻 **Author**: Hmad Afzal
-📅 **Date**: June 26, 2025
+This project implements a **content-based filtering** movie recommender using the TMDB 5000 Movie Dataset. By leveraging metadata such as **genres**, **cast**, **crew**, and **plot overviews**, it uses **cosine similarity** and **NLP techniques** to find and suggest movies that are similar in content.
 
-
-This project implements a **content-based filtering** approach to recommend movies based on their metadata (such as genre, cast, crew, and overview), using **cosine similarity** and **natural language processing** techniques.
-
-📂 **Notebook Link**: [View on GitHub](https://github.com/HmadAfzal/movie_recommendation_engine/blob/main/movie-recommendation-engine.ipynb)
+🔗 **Live Demo**: [Try it on Streamlit](https://tmdbmovierecommendationengine.streamlit.app/)
+📂 **Notebook**: [View the Notebook on GitHub](https://github.com/HmadAfzal/movie_recommendation_engine/blob/main/movie-recommendation-engine.ipynb)
